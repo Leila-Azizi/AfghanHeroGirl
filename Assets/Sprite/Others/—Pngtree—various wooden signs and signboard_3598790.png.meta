@@ -1,0 +1,635 @@
+fileFormatVersion: 2
+guid: f3604c7cc785b104d8c26a494649e620
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: "\u2014Pngtree\u2014various wooden signs and signboard_3598790_0"
+    21300002: "\u2014Pngtree\u2014various wooden signs and signboard_3598790_1"
+    21300004: "\u2014Pngtree\u2014various wooden signs and signboard_3598790_2"
+    21300006: "\u2014Pngtree\u2014various wooden signs and signboard_3598790_3"
+    21300008: "\u2014Pngtree\u2014various wooden signs and signboard_3598790_4"
+    21300010: "\u2014Pngtree\u2014various wooden signs and signboard_3598790_5"
+    21300012: "\u2014Pngtree\u2014various wooden signs and signboard_3598790_6"
+    21300014: "\u2014Pngtree\u2014various wooden signs and signboard_3598790_7"
+    21300016: "\u2014Pngtree\u2014various wooden signs and signboard_3598790_8"
+    21300018: "\u2014Pngtree\u2014various wooden signs and signboard_3598790_9"
+    21300020: "\u2014Pngtree\u2014various wooden signs and signboard_3598790_10"
+    21300022: "\u2014Pngtree\u2014various wooden signs and signboard_3598790_11"
+    21300024: "\u2014Pngtree\u2014various wooden signs and signboard_3598790_12"
+    21300026: "\u2014Pngtree\u2014various wooden signs and signboard_3598790_13"
+    21300028: "\u2014Pngtree\u2014various wooden signs and signboard_3598790_14"
+    21300030: "\u2014Pngtree\u2014various wooden signs and signboard_3598790_15"
+    21300032: "\u2014Pngtree\u2014various wooden signs and signboard_3598790_16"
+    21300034: "\u2014Pngtree\u2014various wooden signs and signboard_3598790_17"
+    21300036: "\u2014Pngtree\u2014various wooden signs and signboard_3598790_18"
+    21300038: "\u2014Pngtree\u2014various wooden signs and signboard_3598790_19"
+    21300040: "\u2014Pngtree\u2014various wooden signs and signboard_3598790_20"
+    21300042: "\u2014Pngtree\u2014various wooden signs and signboard_3598790_21"
+    21300044: "\u2014Pngtree\u2014various wooden signs and signboard_3598790_22"
+    21300046: "\u2014Pngtree\u2014various wooden signs and signboard_3598790_23"
+    21300048: "\u2014Pngtree\u2014various wooden signs and signboard_3598790_24"
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014various wooden signs and signboard_3598790_0"
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 983
+        width: 271
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d63f381947e03b548a65c70e830ed52b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014various wooden signs and signboard_3598790_1"
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 935
+        width: 253
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e3ef79233674444daecae58f7fbd378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014various wooden signs and signboard_3598790_2"
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 948
+        width: 268
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c98901b6f0eebe468395b6070a92cc2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014various wooden signs and signboard_3598790_3"
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 580
+        width: 243
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb7801245663fe04a97532f33c0570ce
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014various wooden signs and signboard_3598790_4"
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 586
+        width: 312
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d818438e58802114bb2940dcc47f5b15
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014various wooden signs and signboard_3598790_5"
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 561
+        width: 186
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e33a824b0048e4188014871e776365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014various wooden signs and signboard_3598790_6"
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 177
+        width: 255
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b14f548776088f74eaeba0eabfb2c078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014various wooden signs and signboard_3598790_7"
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 198
+        width: 278
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd8eed5644ae37b47b26f703b3e1c209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014various wooden signs and signboard_3598790_8"
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 144
+        width: 315
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d19a14714e6b2a44090d75e76205f43c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014various wooden signs and signboard_3598790_9"
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 47
+        width: 21
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 177677fb0ea74de4d82c0a9454387d1a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014various wooden signs and signboard_3598790_10"
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 47
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1195d495ee9747f44978d420683443a1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014various wooden signs and signboard_3598790_11"
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 47
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e455204f9b03214b9098594a6ed329d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014various wooden signs and signboard_3598790_12"
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 40
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd14c0a6bb2a81745855d2a8c5b703f6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014various wooden signs and signboard_3598790_13"
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 47
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24dceebd869e05741a0499a12439eb13
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014various wooden signs and signboard_3598790_14"
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 47
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c90d27cf958626b419af44b09c3bdaa5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014various wooden signs and signboard_3598790_15"
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 47
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09f5b078dc322844b92c54e876b20d5b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014various wooden signs and signboard_3598790_16"
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 47
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f348968c349ca418b3cd2d5deea9df
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014various wooden signs and signboard_3598790_17"
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 40
+        width: 17
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 861e1b5a3197f6144a5547f22b41036b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014various wooden signs and signboard_3598790_18"
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 47
+        width: 19
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab3853b38ac3ff848808df1c9ba33c15
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014various wooden signs and signboard_3598790_19"
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 47
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc65e9b3cc709b344894921d0b8256b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014various wooden signs and signboard_3598790_20"
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 40
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b386e037579f3a844b0edd88f76dd98d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014various wooden signs and signboard_3598790_21"
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 47
+        width: 10
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d74da428eba65064aab5d90bbf4b319e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014various wooden signs and signboard_3598790_22"
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 47
+        width: 10
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a372244ae16d149aaadac0d94269f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014various wooden signs and signboard_3598790_23"
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 47
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a9bd8f2c9ac69d4dbd036229c0966bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014various wooden signs and signboard_3598790_24"
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 47
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45f4831fa9f538b4b86b3f8821f0cc41
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: f7a0742aa23692641a066b694996bd60
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1328 @@
+fileFormatVersion: 2
+guid: aa17786475bba8e44980c64987da0406
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_0
+    21300002: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_1
+    21300004: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_2
+    21300006: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_3
+    21300008: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_4
+    21300010: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_5
+    21300012: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_6
+    21300014: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_7
+    21300016: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_8
+    21300018: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_9
+    21300020: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_10
+    21300022: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_11
+    21300024: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_12
+    21300026: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_13
+    21300028: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_14
+    21300030: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_15
+    21300032: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_16
+    21300034: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_17
+    21300036: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_18
+    21300038: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_19
+    21300040: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_20
+    21300042: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_21
+    21300044: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_22
+    21300046: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_23
+    21300048: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_24
+    21300050: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_25
+    21300052: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_26
+    21300054: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_27
+    21300056: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_28
+    21300058: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_29
+    21300060: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_30
+    21300062: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_31
+    21300064: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_32
+    21300066: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_33
+    21300068: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_34
+    21300070: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_35
+    21300072: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_36
+    21300074: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_37
+    21300076: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_38
+    21300078: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_39
+    21300080: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_40
+    21300082: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_41
+    21300084: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_42
+    21300086: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_43
+    21300088: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_44
+    21300090: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_45
+    21300092: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_46
+    21300094: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_47
+    21300096: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_48
+    21300098: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_49
+    21300100: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_50
+    21300102: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_51
+    21300104: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_52
+    21300106: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_53
+    21300108: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_54
+    21300110: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_55
+    21300112: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_56
+    21300114: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_57
+  externalObjects: {}
+  serializedVersion: 7
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_0
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 494
+        width: 35
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28475ab0b7f54db43a279f6e26bc96b1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_1
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 487
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6709f5651afab94689737d184e1a2b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_2
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 471
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d0cf3783d63d646b502cf73bac3994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_3
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 431
+        width: 73
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc54f6ec7849f4048a045eaba1a3fb6f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_4
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 498
+        width: 41
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bd2707f3e5927e4697f0063eb9eaf42
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_5
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 350
+        width: 519
+        height: 598
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4258f952dec151e44a67e7696b807021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_6
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 462
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d238c2df92aef4fb8cea14bff7d711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_7
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 453
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67a9ecc84852d124abd8c2443f69347d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_8
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 437
+        width: 36
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2109a4f0ba1817946a959672960f5c8f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_9
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 450
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 688be3990929ce54b94b4eb5c0ccfc64
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_10
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 427
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63a6cca1d1765144786664428a58af5d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_11
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 418
+        width: 29
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8600a51471b7d294d81b9ad9a5a3539e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_12
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 408
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 115f255ffc0e7534c9e78265a090182f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_13
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 417
+        width: 39
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66e1ba0302d9dd140bf4b3be5c531945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_14
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 411
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09b97d1279d99054695dc10cf6e3a163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_15
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 402
+        width: 57
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b56b9cdd903dac843a0753136321a2b3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_16
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 418
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2df21de64af22bd4ea5203b059559fca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_17
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 407
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44bce6b87c66fd4c93f2e8ecc20b2ba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_18
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 368
+        width: 41
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fc5be18a70e1b24f90dc154526dbc8a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_19
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 348
+        width: 45
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b11768e181533143ac2982634dc4a30
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_20
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 346
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f76e15d0b7f2c34395c077d75217ece
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_21
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 289
+        width: 73
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ba090e7b0e639f45ad3e288432f63f3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_22
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 339
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0adf385234f77574d9dbeb5fc878aa9c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_23
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 333
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d326eeb643a8614aa20cd12ad5f7c72
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_24
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 345
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50967f8f3b7f3c34ab0a0d8908c69f4c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_25
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 347
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e3adee8edf791546980054dbfeeccbd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_26
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 340
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05bdf45f116df8e48bd74ff0cd878083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_27
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 346
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a5ac433aebaaa9478e2dfbe1feabcca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_28
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 294
+        width: 63
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c9a8e4b05cbfd4282eb71d47b2fc59
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_29
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 336
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5260785402a69a14e818222e01da6501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_30
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 325
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 478d388c35d488a46a061e99f029773b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_31
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 319
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 666fa440f991f5247b3be23544ae714d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_32
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 325
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aed70c6fa1a182f428f8fcc55bb8d688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_33
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 334
+        width: 13
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a5991eae41e7143bd0281f7519d124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_34
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 321
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd826c70c11d2264ebf91319d3d37455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_35
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 312
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebbe009ed3e207043bce76b7f0be6a23
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_36
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 188
+        width: 190
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 305693e2c2397fb40aadcd5810000fc0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_37
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 308
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51ef3dc166443eb4c9256017c95c7f7c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_38
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 319
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27fd7f243acc58b4ca7c19babd873b0e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_39
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 312
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 875ad1f5c0a349443abd524eac4864bb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_40
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 281
+        width: 46
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f11e4efb3fb2dc4ab8fc6fd0c76d818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_41
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 298
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 768d367461138754ca6a48e92e7637ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_42
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 287
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e86ff203fce2b4283464c074ad440b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_43
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 279
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61511cb3ba163e646920eda65b568394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_44
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 41
+        width: 181
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d736fdd31b4a16418bf08be9dcf61ca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_45
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 285
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46c9d664325e1c459b01d15073e04b5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_46
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 269
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47646ddaa371b1c46946fcb614584b34
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_47
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 275
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff69757b5de9654b9f7623c0f7500fc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_48
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 40
+        width: 183
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbbf40764379c504bbb700929b74f8ee
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_49
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 252
+        width: 39
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cac110fa90e08e4b822b46bfdf13a8b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_50
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 146
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0fcbadf26317324ea9f5688d05efd82
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_51
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 164
+        width: 149
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a68fdcc8425184ba0a626ddd264808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_52
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 140
+        width: 88
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f939b61a35e5ec34a88e925e9c97d0a6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_53
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 124
+        width: 79
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a28e27659d75abe44bfd98aa0a2071eb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_54
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 156
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36eab0768531e5a4296d80c82ed87b80
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_55
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 84
+        width: 137
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e1aedd466222643a82b9f1be86db96
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_56
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 129
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47844db89ec4dc64a97db6b2545627b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-game-drawing-building-deviantart-concept-art-cave-5ac24f48d5cff6.1399279615226837208758_57
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 118
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a8bd8911541954ba046ad742923169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 7d6a7ce4a6cc94244814fb2a03856e3c
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

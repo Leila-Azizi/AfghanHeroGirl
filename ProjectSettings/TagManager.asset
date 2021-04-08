@@ -1,0 +1,103 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Pendulum
+  - Fire
+  - MagicBottel
+  - Soldier
+  - MovingPlatform
+  - DropingPlatform
+  - GrayHead
+  - Stuff
+  - StuffArea
+  - Simpler
+  - GrayEnemy
+  - WizardEnemy
+  - BlueEnemy
+  - PlayerStuck
+  - EnemyBullet
+  - LevelOneBoss
+  - EnemySeeArea
+  - TopMovingPlatform
+  - ButtomMovingPlatform
+  - Ground
+  - SavePoint
+  - AwardedBox
+  - PlayerBullet
+  - Heart
+  - Bullet
+  - BigPrize
+  - StopCamera
+  - FxTemporaire
+  - TopGround
+  - Enemy
+  - Water
+  - GonalEnemy
+  - EnemySpawner
+  - Dirt
+  - LevelTwoBoss
+  - Coin
+  - Wall
+  - EnterWall
+  - ExitWall
+  - shiwa
+  - Monira
+  - Leila
+  - Kimia
+  - Nasrin
+  - Khatera
+  - Nahid
+  - Fatema
+  - Nazrana
+  - saeeda
+  - mahtab
+  - Asma
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Player
+  - Jumper
+  - Pendulum
+  - PurpleEnemy
+  - Collectable
+  - Fire
+  - MagicBottel
+  - Soldier
+  - GarbageCollertor
+  - MovingPlatform
+  - Enemy
+  - SeaArea
+  - Obstacle
+  - SavePoint
+  - Wall
+  - CammeraChanger
+  - JumperWall
+  - Crew
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackGround
+    uniqueID: 4189686533
+    locked: 0
+  - name: ForGround
+    uniqueID: 4110330827
+    locked: 0
+  - name: UIElement
+    uniqueID: 4054388481
+    locked: 0
